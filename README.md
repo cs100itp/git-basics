@@ -2,7 +2,7 @@
 
 ## Team members
 
-(Delete this message and replace it with your information!)
+(Delete this line and replace it with your information!)
 
 ## Git & GitHub
 
@@ -63,5 +63,7 @@ Here's an overview of what each team will do:
 By the end of the assignment, each team will have a repository containing one
 additional branch and file for each member, and a series of commits that look
 something like this:
+
+![Sample commits](images/05-github-commits.png)
 
 ## Details
