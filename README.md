@@ -2,7 +2,7 @@
 
 ## Team members
 
-- John Doe <jdoe@hawk.iit.edu>
+Blah blah
 
 ## Git & GitHub
 
