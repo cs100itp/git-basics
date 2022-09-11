@@ -2,7 +2,7 @@
 
 ## Team members
 
-(Delete this line and replace it with your information!)
+- John Doe <jdoe@hawk.iit.edu>
 
 ## Git & GitHub
 
