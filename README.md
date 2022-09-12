@@ -25,29 +25,29 @@ changes, using various features of Git and GitHub.
 ## Assignment Overview
 
 For this assignment, we will have you work through a Git-based process of which
-you'll likely encounter many variations of in future classes and real-world
+you'll likely encounter many variations in future classes and real-world
 projects. To make things a bit more interesting, you will work in teams of 2-3
 students.
 
 Here's an overview of what each team will do:
 
-1. Everyone will create an account on GitHub.
+1. Every team member will create an account on GitHub.
 
 2. One team member will create a new team and accept the group assignment.
 
 3. Remaining members will accept the group assignment and join the same team.
 
-4. Each team member will clone the repository to their own computer.
+4. Each team member will *clone* the repository to their own computer.
    
-5. One team member will edit a file in the repository, then commit and push their
-   changes to GitHub.
+5. One team member will edit a file in the repository, then *commit* and *push*
+   their changes to GitHub.
 
-6. Every other team member, in turn, will need to pull the changes from GitHub,
-   then commit and push their own changes.
+6. Every other team member, in turn, will need to *pull* the changes from
+   GitHub, then *commit* and *push* their own changes.
 
-7. Each team member will publish a new branch and create a pull request.
+7. Each team member will publish a new *branch* and create a *pull request*.
 
-8. Each team member will merge in a pull request (created by a different
+8. Each team member will *merge* in a pull request (created by a different
    person).
 
 ## Details
@@ -67,15 +67,15 @@ you already have a GitHub account, you may use that.
 After forming a team of 2-3 students, designate one team member to accept the
 assignment using this link: <https://classroom.github.com/a/YsKqJKrz>. 
 
-After selecting your username from the list, use the "Create a new team" option
---- you're free to come up with a unique team name, but keep it PG-13. After
-creating your team and accepting the assignment, you'll reach a page that you
-can refresh after a few seconds to find a confirmation page like this one:
+After selecting their username from the list, use the "Create a new team" option
+--- feel free to come up with a fun team name, but keep it PG-13. After creating
+a team and accepting the assignment, the subsequent page can be refreshed after
+a few seconds to reach a confirmation page like this one (for team "FooBars"):
 
 ![Confirmation page](images/github-accept.png)
 
-If you click on the highlighted link, you'll be taken to the repository
-homepage, which should look like this:
+Clicking on the highlighted link will load the repository homepage, which should
+look like this:
 
 ![Repository homepage](images/github-repos.png)
 
@@ -89,9 +89,9 @@ accept the assignment, this time joining the same team created in the previous
 step. 
 
 When this is done, all team members will have access to the same repository
-hosted on GitHub, and shared with the course instructors and TAs. Note that each
-team member will be signed in separately -- this will ensure that their updates
-to the repository will be correctly credited.
+hosted on GitHub, which is also shared with the course instructors and TAs. Note
+that each team member must be signed in separately -- this will ensure that
+their updates to the repository will be correctly credited.
 
 ### Step 4
 
@@ -111,6 +111,14 @@ should see the files "README.md", "LICENSE", and a folder named "images"
 containing some PNGs. Don't touch anything just yet.
 
 All team members should complete this step before anyone moves on.
+
+---
+
+Students already familiar with the command line interface (or up for a
+challenge) may clone the repository that way. An alternative [Git
+GUI](https://git-scm.com/downloads/guis) is also an option. If you're not
+interested in experimenting at this point, though, stick with the GitHub Desktop
+application! 
 
 ### Step 5
 
