@@ -74,10 +74,12 @@ can refresh after a few seconds to find a confirmation page like this one:
 
 ![Confirmation page](images/github-accept.png)
 
-If you click on the hightlighted link, you'll be taken to the repository
+If you click on the highlighted link, you'll be taken to the repository
 homepage, which should look like this:
 
 ![Repository homepage](images/github-repos.png)
+
+Note that this assignment writeup can also be viewed on the repository homepage.
 
 ### Step 3
 
@@ -135,7 +137,7 @@ email address. It should look like this:
 After saving the changes, return to GitHub Application and you should find that
 it has updated itself to look like this:
 
-![GitHub Destop commit dialogue](images/github-desktop-commit.png)
+![GitHub Desktop commit dialogue](images/github-desktop-commit.png)
 
 The red and green highlighted text indicate the change made to the "README.md"
 file --- we call this a *diff* report.
