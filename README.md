@@ -232,10 +232,10 @@ interface just prior to finalizing the commit:
 
 ![Adding a file to a new branch](images/github-desktop-new-branch.png)
 
-Next, click "Publish branch" to push your new branch to GitHub. When this
-completes, click the "Create Pull Request" button to submit a pull request for
-the new branch --- this will take you to the GitHub website to confirm the
-action:
+After committing the file, click "Publish branch" to push your new branch to 
+GitHub. When this completes, click the "Create Pull Request" button to submit a 
+pull request for the new branch --- this will take you to the GitHub website to 
+confirm the action:
 
 ![GitHub pull request](images/github-pull-request.png)
 
