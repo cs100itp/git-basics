@@ -3,6 +3,7 @@
 ## Team members
 
 -Neha Gudur <ngudur@hawk.iit.edu>
+-Axel Morgado <amorgadocruz@hawk.iit.edu>
 
 ## Git & GitHub
 
