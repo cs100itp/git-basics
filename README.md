@@ -2,7 +2,7 @@
 
 ## Team members
 
-(Delete this line and replace it with your information!)
+sashank reddy skadiveti@gawk.iit.edu
 
 ## Git & GitHub
 
