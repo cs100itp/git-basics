@@ -2,7 +2,7 @@
 
 ## Team members
 
-(Delete this line and replace it with your information!)
+-Neha Gudur <ngudur@hawk.iit.edu>
 
 ## Git & GitHub
 
