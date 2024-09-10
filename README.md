@@ -2,7 +2,9 @@
 
 ## Team members
 
-(Delete this line and replace it with your information!)
+-Neha Gudur <ngudur@hawk.iit.edu>
+-Axel Morgado <amorgadocruz@hawk.iit.edu>
+-Anaya Johnson <ajohnson50@hawk.iit.edu>
 
 ## Git & GitHub
 
