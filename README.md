@@ -2,7 +2,9 @@
 
 ## Team members
 
-(Delete this line and replace it with your information!)
+sashank reddy skadiveti@gawk.iit.edu
+anthony martinez amartinez64@hawk.iit.edu
+Victoria Akirtava vakirtava@hawk.iit.edu
 
 ## Git & GitHub
 
