@@ -2,7 +2,9 @@
 
 ## Team members
 
-(Delete this line and replace it with your information!)
+Juan Zanguitu <jzanguitu@hawk.iit.edu>
+Destiny Medina <dmedina8@hawk.iit.edu>
+Nolan Lawrence <nlawrence1@hawk.iit.edu>
 
 ## Git & GitHub
 
