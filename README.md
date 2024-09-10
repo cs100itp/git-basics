@@ -4,6 +4,8 @@
 
 sashank reddy skadiveti@gawk.iit.edu
 anthony martinez amartinez64@hawk.iit.edu
+Victoria Akirtava vakirtava@hawk.iit.edu
+
 ## Git & GitHub
 
 Git is a distributed Version Control System (VCS) -- currently the most popular
