@@ -2,8 +2,7 @@
 
 ## Team members
 
-- Jacob Ang <jang2@hawk.iit.edu>
-- Noumaan Mohammed <nmohammed2@hawk.iit.edu>
+(Delete this line and replace it with your information!)
 
 ## Git & GitHub
 
